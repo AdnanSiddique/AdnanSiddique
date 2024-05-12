@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdnanSiddique
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and Angular
+- 🌱 I’m currently working Java and React
 - 📫 How to reach me adnansiddiq@outlook.com
 
 <!---
